@@ -1,0 +1,3 @@
+pipeline文件夹中文为本次流水线大作业所用的源文件，其中，Dijkstra.mem为十六进制指令文件，由ROM中的$readmemh读取。
+dijkstra.asm文件包含测试数据和dijkstra单源最短路径算法的汇编实现。
+流水线大作业说明文档.pdf为本次流水线大作业的报告。
